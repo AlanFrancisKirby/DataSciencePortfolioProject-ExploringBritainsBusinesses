@@ -38,3 +38,4 @@ PyMySQL==1.0.2
 PyPDF2==2.10.5
 mysql-connector==2.2.9
 mysql-connector-python==8.0.30
+jupyter
