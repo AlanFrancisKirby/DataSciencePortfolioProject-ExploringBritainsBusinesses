@@ -39,7 +39,7 @@ https://github.com/AlanFrancisKirby/DataSciencePortfolioProject-ExploringBritain
 ## Getting Started
 The following video outlines the key steps for getting started in using this project. For full documentation including the software requirements specification and project road map, please see the project [wiki](https://github.com/AlanFrancisKirby/DataSciencePortfolioProject-CompaniesHouseData/wiki).
 
-https://github.com/AlanFrancisKirby/DataSciencePortfolioProject-ExploringBritainsBusinesses/assets/33100315/abe09f19-6d1e-4494-81b5-49224d88bb03
+https://github.com/AlanFrancisKirby/DataSciencePortfolioProject-ExploringBritainsBusinesses/assets/33100315/0d75d8cf-603b-4477-8a6c-2720de9d4f82
 
 <a name="Bugs-&-Feedback"/>
 
